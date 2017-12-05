@@ -1,0 +1,50 @@
+{
+  "_from": "heello-module@1.0.1",
+  "_id": "heello-module@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-og9rGpCIlrhQ5OsY2IgGLwh+InNUg2pSoeQmBiDtk+zXUu2OsP40dmRJ3vnhjpGOxktFfDdiDPuAQ3PrHrtdHw==",
+  "_location": "/heello-module",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "heello-module@1.0.1",
+    "name": "heello-module",
+    "escapedName": "heello-module",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/heello-module/-/heello-module-1.0.1.tgz",
+  "_shasum": "c327241cc2f486f412a41bd8963cf30810533b75",
+  "_spec": "heello-module@1.0.1",
+  "_where": "C:\\Users\\Christian\\Desktop\\googlecodein\\test-hello",
+  "author": {
+    "name": "Squishy123"
+  },
+  "bugs": {
+    "url": "https://github.com/Squishy123/heello-module/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "deprecated": false,
+  "description": "IT SAYS HELLO WORLD!",
+  "homepage": "https://github.com/Squishy123/heello-module#readme",
+  "license": "Apache-2.0",
+  "main": "main.js",
+  "name": "heello-module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squishy123/heello-module.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
